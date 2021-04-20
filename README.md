@@ -1,6 +1,6 @@
 ## Are looking for some best quotes?
 ## Then please click on link below
-### [Quote Generator]()
+### [Quote Generator](https://sagar-sharma-7.github.io/Quotes-Generator/)
 
 <hr>
 
